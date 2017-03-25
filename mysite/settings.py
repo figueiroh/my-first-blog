@@ -25,7 +25,7 @@ SECRET_KEY = '&8s#vsdpw(flig%mq^m%$0-a!%%u$)@qc41*b63$kf7x01o1mq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['figueiroh.pythonanywhere.com']
 
 
 # Application definition
